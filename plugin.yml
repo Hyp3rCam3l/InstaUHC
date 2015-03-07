@@ -5,3 +5,5 @@ main: HyperCamel\InstaUHC\MainClass
 version: 1.0.0
 
 api: 1.0.0
+
+description: A UHC Plugin for Pocketmine-MP
